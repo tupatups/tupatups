@@ -1,4 +1,4 @@
-![Header](.github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Christopher Naval</h1>
 <h3 align="center">A passionate student who likes to procastinate</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVteWQyb2hsNzZ4dW1sODVkc3Q0b2RydmE5ZTY1azBzaGJxZzNtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">

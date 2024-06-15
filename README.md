@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Naval</h1>
-<h3 align="center">A passionate student who likes to procastinate</h3>
+<h3 align="center">Wag mag-alala buhay ay 'di karera</h3>
 
 - 🔭 I’m currently studying on **National University**
 

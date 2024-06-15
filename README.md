@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node, React, PostgreSQL, Web3 and DApps**
 
-- 👯 I’m looking to collaborate on **NASA and Google**
+- 👯 I’m looking to collaborate with **NASA and Google**
 
 - 📫 How to reach me **navalchristopherbago@gmail.com**
 

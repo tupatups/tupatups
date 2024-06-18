@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **NASA and Google**
 
-- 📫 How to reach me **navalchristopherbago@gmail.com**
+- 📫 How to reach me **navalchristopherbago@gmail.com/christopher.naval.navsci@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

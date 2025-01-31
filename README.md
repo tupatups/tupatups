@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher Naval</h1>
 <h3 align="center">Wag mag-alala buhay ay 'di karera</h3>
 
-- 🔭 I’m currently studying on **National University**
+- 🔭 I’m currently studying at **National University**
 
 - 🌱 I’m currently learning **Node, React, PostgreSQL, Web3 and DApps**
 

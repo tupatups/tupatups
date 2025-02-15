@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Naval</h1>
-<h3 align="center"> Slowly coming back from hiatus? </h3>
+<h3 align="center"> just another day  </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tupatups" alt="tupatups" /></a> </p>
 
